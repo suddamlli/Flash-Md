@@ -22,7 +22,7 @@
       "AUTO_REACTION":
     {
       "description":"Put on if you want the bot to react to people's messages.It won't react to your messages and those from creator France King.", 
-      "value":"off", 
+      "value":"on", 
       "required":false 
     }, 
     "AUTO_READ_MESSAGES":
@@ -76,7 +76,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with FLASH-MD-WA-BOT...",   
-      "value":"",
+      "value":"FLASH-MD-WA-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUFXNTdCZHpEM2dtL2hLOWp4SHo0amhkM09SelkvU01XTHR3alkwdncwQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiamlqZmZiSmlCRHdRWTlTTEMyUlk5V29ETkphbkk0eXlHSStkVzR4Q1lVND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5UEhVbEMva0xvZStmVnZBb2M2TG5IS3cwQ1dyK1ZXbEVWZXBIaFZ2aGxFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJxNmc2UmExRWE5Z3BpaHRFT2xPd1RSd3N2OFNjM2tFZVVtNmcxRzdZUHlrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFNeG9HTWZQVjgydTlOK21KTnNqUjRTbkVWdWFJd3EvYjVsYjhLUkZvRmc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklieWpuakNJYzhaZkRQd2hGZEl0NzZtanA0a1UyMSs5N1F3ZzhOL1Y5bEk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUMvdWhxRGt6V3hVZ05LVE9OZHpybVVFNHNTR3BPejBtQzU2OW5VV2lWST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicFhLZXhYa2JvbnpJdlZ2QmFxZkVxRHZoMDArS0xGRXFPcjZYU3k2OFRVbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InA4THQ0cUs2TzVoSFRReUljQnFiWTJQZXArblVGZmxkNkpwYXVKWFlycTdYQzVFWExzQXB6cFQ1MGtmTzk2Q1ZnV0JaRy8zUWNPSll6SjE2MWpLYmp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTY2LCJhZHZTZWNyZXRLZXkiOiJUTHcrRzBWejF5NDRWMHZVTEpCcVdvZ1JjUkNVOTFRWDhoOHd5MXlySXY0PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6Ijk0NzY2Njg3NjI4QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6Ijk0REZGNUQyN0JCRTUyQjZCRjBENkNDQjIzMEMxREUxIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjMzNTY2NDJ9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IjBGS0xweDhlUmpPeWVLUURyUEpidlEiLCJwaG9uZUlkIjoiM2FhNTA4NWYtN2QwMy00N2E0LTk4NzYtN2E5NzQwMzkyZjA1IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjN0U2RjYXpJTG9yYWtHODI2RTZoam1rMVM2WT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtVkUvTWVRQ09QTDZUVXNXYmN4ZFZIVHFLeWM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiWUNNWjVRNUMiLCJtZSI6eyJpZCI6Ijk0NzY2Njg3NjI4OjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQU5OU1VOLVkvMjQgd2hvIEFtIGnjhaRcbuOFpFxu44WkXG7jhaRcbuOFpFxu44WkXG7jhaRcbuOFpCDjhaRcbuOFpFxu44WkXG7jhaRcbuOFpFxu44WkXG7jhaRcbuOFpCBGVUNLIFlPVSBcbuOFpFxu44WkXG7jhaQg44WkXG7jhaRcbuOFpFxu44WkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNU0tpNDRHRU5HcjRiVUdHQWtnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJxZjF2ek5MY0U0UFo0Znk1eFJjRGNKMlg5SFJUa3JldEJxN3E4MDhaZ2hzPSIsImFjY291bnRTaWduYXR1cmUiOiJZREdHNUZUazhjUEZ0SEVqWjlRazhmZk5lYjRTRjhEYVArVnNsNmpWMDRUTm1BRUs0b3dFbG1BZkxhWFM1Um9hYjZRSTlYbnpEOXRCYkZOT3AzWitCUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiRVBXU0JNSk9RYnM1d3d4TmpMUzFNNk5ndjZVZ2VKWHJLeHErTTUvcXoxYktmc3R6YXM4SWMyZ1Nzc3gwWjJhL1ZMQlRjcmUvazFjVzl3Y1FpYnhuakE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc2NjY4NzYyODoxQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmFuOWI4elMzQk9EMmVIOHVjVVhBM0NkbC9SMFU1SzNyUWF1NnZOUEdZSWIifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjMzNTY2MzksIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSEZwIn0=",
       "required": true
 
     },
@@ -85,14 +85,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "ANNSUN-Y"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":false,
-    "value": "254751284190"
+    "value": "94766687628"
   },
     "WARN_COUNT":
   {
@@ -104,7 +104,7 @@
     {
       "desc": "Put on to allow the bot to chat with people who text you or put off if you don't want the bot to chat with people",
       "required": false, 
-       "value": "off" 
+       "value": "On" 
     }, 
   "STARTING_MESSAGE":
   {
